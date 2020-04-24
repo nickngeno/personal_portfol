@@ -1,0 +1,10 @@
+body{
+background-color: #f5f5f5 !important;
+}
+#profilepic{
+border-radius: 50%;
+width:200px;
+height:200px;
+margin-right:auto;
+margin-left:auto;
+}
